@@ -58,6 +58,7 @@ h1 {
   border-color: #cbcdcc;
   border-width: 5px;
   border-style: solid;
+  background-color: red;
 }
 
 .press a:hover img {
