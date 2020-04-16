@@ -40,6 +40,10 @@ h1 {
   height: 100%;
 }
 
+.feature {
+  background-color: red;
+}
+
 #feature {
   max-width: 100%;
   border-color: #9caaa5;
@@ -58,7 +62,6 @@ h1 {
   border-color: #cbcdcc;
   border-width: 5px;
   border-style: solid;
-  background-color: red;
 }
 
 .press a:hover img {
