@@ -40,6 +40,10 @@ h1 {
   height: 100%;
 }
 
+h2 {
+  font-weight: bold;
+}
+
 .feature {
   background-color: red;
   position: relative;
