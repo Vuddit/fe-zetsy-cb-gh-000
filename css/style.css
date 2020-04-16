@@ -79,4 +79,5 @@ footer p {
 .clearfix {
   content: ".";
   clear: both;
+  color: red;
 }
