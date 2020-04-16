@@ -41,7 +41,7 @@ h1 {
 }
 
 h2 {
-  font-weight: strong;
+
 }
 
 .feature {
@@ -75,7 +75,6 @@ h2 {
 }
 
 footer p {
-  color: red;
   float: right;
   display: block;
 }
