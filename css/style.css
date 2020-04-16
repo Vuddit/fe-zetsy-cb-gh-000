@@ -76,9 +76,11 @@ footer p {
   display: block;
 }
 
-.clearfix {
+.clearfix:after {
   display: block;
   content: ".";
   clear: both;
-  color: red;
+  visibility: hidden;
+  height: 0;
+  line-height: 0;
 }
