@@ -42,6 +42,7 @@ h1 {
 
 .feature {
   background-color: red;
+  position: relative;
   bottom: 40px;
 }
 
