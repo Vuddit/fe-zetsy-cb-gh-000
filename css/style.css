@@ -73,12 +73,11 @@ h1 {
 footer p {
   color: red;
   float: right;
+  display: block;
 }
 
 .clearfix {
-  content: "";
+
   clear: both;
   visibility: hidden;
-  height: 0;
-  line-height: 0;
 }
