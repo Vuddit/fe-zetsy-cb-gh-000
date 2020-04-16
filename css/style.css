@@ -73,5 +73,9 @@ h1 {
 footer p {
   color: red;
   float: right;
-  right: 20px;
+}
+
+.clearfix {
+  content: "";
+  
 }
